@@ -10,3 +10,9 @@
 #### 3. Enforced security by creating a admin and aacuser account to acces the database.
 #### 4. Run the program through Jupyter notebook (after library imports)
 #### 5. User can edit data through radio buttons and geolocation mapping.
+
+## Results and Yields
+##
+![image](https://user-images.githubusercontent.com/75659218/210486414-8f0b7618-d462-4cba-a511-02e775815c90.png)
+##
+![image](https://user-images.githubusercontent.com/75659218/210486463-a28330cf-408f-43c6-803e-7e0e830fd3cd.png)
